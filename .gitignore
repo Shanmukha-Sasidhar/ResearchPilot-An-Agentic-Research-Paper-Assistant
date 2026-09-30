@@ -1,0 +1,37 @@
+# Environment
+.env
+.env.*
+*.env
+!.env.example
+
+# Virtual environment
+venv/
+.venv/
+rag-venv/
+*venv*/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.pytest_cache/
+
+# Streamlit
+.streamlit/
+
+# Data
+data/processed/*
+!data/processed/.gitkeep
+data/papers/*
+!data/papers/.gitkeep
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db

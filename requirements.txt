@@ -1,0 +1,15 @@
+streamlit
+python-dotenv
+openai
+pdfplumber
+
+langchain-text-splitters
+
+sentence-transformers
+faiss-cpu
+chromadb
+torchvision
+rank-bm25
+langgraph
+PyMuPdf
+langsmith
